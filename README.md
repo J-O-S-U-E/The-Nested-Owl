@@ -1,7 +1,7 @@
 # The-Nested-Owl
 Screenshots of The Nested Owl E-commerce website as of 4/25/2022
 
-The purpose of this repository is to displaye the on-going development of The Nested Owl E-commerce website.
+The purpose of this repository is to display the on-going development of The Nested Owl E-commerce website.
 
 ## Home Page
 
